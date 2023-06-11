@@ -29,7 +29,7 @@
     height : 800px !important;
     width : 100%;
     background-color : rgb(243, 234, 234);
-    margin-bottom:5px;
+    margin-bottom: 5px;
     font-family : montserrat;
   }
   .contact_form_container{
@@ -60,7 +60,7 @@
 
 .contact_info{
   background-color : white;
-  height : 300px;
+  height : 355px;
   width : 400px;
   display : flex;
   flex-direction : column;
@@ -85,7 +85,7 @@ input[type=text], select, textarea {
 input[type=submit] {
   background-color: #04AA6D;
   color: white;
-  padding: 12px 20px;
+  padding: 5px 9px;
   border: none;
   border-radius: 4px;
   cursor: pointer;
