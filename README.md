@@ -1,10 +1,13 @@
-# Travel-Guide
-Discover the rich history, breathtaking landscapes, vibrant culture, and warm hospitality of Kosovo.
-Project using HTML5, CSS, Bootstrap, JavaScript
+**Travel Guide Project**
 
+Explore the captivating heritage, awe-inspiring vistas, lively culture, and gracious hospitality of Kosovo through our meticulously crafted Travel Guide project. This endeavor harnesses the power of HTML5, CSS, Bootstrap, and JavaScript to present a seamless and immersive digital experience.
 
-Hosting Platform: https://kujtesa.000webhostapp.com/ 
-("Please note that there may be a delay in the appearance of photos and videos on the site.")
+**Key Features:**
+- Delve into Kosovo's rich history and diverse culture.
+- Navigate breathtaking landscapes and cultural landmarks.
+- Experience warm hospitality through our user-friendly interface.
 
-Github: https://github.com/KPaccarizi?tab=repositories
-
+**Project Details:**
+- Technologies Used: HTML5, CSS, Bootstrap, JavaScript.
+- Hosting Platform: Visit the live site at [https://kujtesa.000webhostapp.com/](https://kujtesa.000webhostapp.com/). Kindly note that there might be a slight delay in the loading of images and videos on the site.
+- Explore the project's repository on GitHub: [https://github.com/KPaccarizi?tab=repositories](https://github.com/KPaccarizi?tab=repositories).
